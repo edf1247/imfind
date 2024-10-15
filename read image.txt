@@ -1,0 +1,8 @@
+read image
+
+sweep the text area, iterate by 1
+
+convert the matrix to a 1D matrix - reshape
+
+get dot product of normal vectors -> dot  product of vectors divided by magnitude, maximize it to find the match
+
